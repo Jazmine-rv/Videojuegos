@@ -1,9 +1,9 @@
 # Usuarios en una Plataforma de Videojuegos
----
+
 Este proyecto forma parte de la materia **Procesamiento de Aprendizaje Automatico**.
 
 ## Descripción
----
+
 El objetivo es aplicar un enfoque basado en reglas para clasificar las acciones que realizan los usuarios en una plataforma de videojuegos según su tipo y duración.
 
 - Combate → Victoria o Derrota
@@ -11,12 +11,12 @@ El objetivo es aplicar un enfoque basado en reglas para clasificar las acciones 
 - Interacción social → Mensaje enviado
 
 ## Herramientas utilizadas
----
+
 - Python
 
 
 ## Respuestas a las preguntas de reflexión
----
+
 **1. ¿Qué reglas funcionaron mejor para clasificar las acciones?**
 
 Las reglas basadas en la duración de la acción funcionaron bien para distinguir entre resultados como Victoria o Derrota en combate, y entre Descubrimiento o Sin hallazgos en exploración.
@@ -38,6 +38,6 @@ El modelo aprendería automáticamente los patrones reales de comportamiento, lo
 - Capacidad para generalizar a nuevos tipos de usuarios o acciones.
 
 ## Archivos
----
+
 - `README.md`: Este es un archivo descriptivo.
 - `Videojuegos.py`: Contiene el código en Python.
